@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "materials-brownbag-emeralds-2025-10",
+    "title": "Materials Brownbag: Emeralds",
+    "date": "2025-10-22",
+    "start": "12:30",
+    "end": "13:30",
+    "series": "Materials Brownbag (Monthly)",
+    "location": "DLIC \u2022 Almas Tower",
+    "standardPriceAED": 500,
+    "memberPriceAED": 350,
+    "status": "upcoming"
+  },
+  {
+    "slug": "pitch-night-luxury-x-tech-2025-11",
+    "title": "Pitch Night: Luxury \u00d7 Tech",
+    "date": "2025-11-12",
+    "start": "18:30",
+    "end": "20:30",
+    "series": "Pitch Night (Quarterly)",
+    "location": "DLIC \u2022 Auditorium",
+    "standardPriceAED": 750,
+    "memberPriceAED": 525,
+    "status": "upcoming"
+  },
+  {
+    "slug": "women-in-diamonds-gathering-2025-12",
+    "title": "Women in Diamonds Gathering",
+    "date": "2025-12-03",
+    "start": "17:00",
+    "end": "19:00",
+    "series": "Women in Diamonds (Quarterly)",
+    "location": "DLIC \u2022 Lounge",
+    "standardPriceAED": 300,
+    "memberPriceAED": 210,
+    "status": "upcoming"
+  }
+]
