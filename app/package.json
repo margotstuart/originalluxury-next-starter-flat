@@ -1,0 +1,23 @@
+{
+  "name": "originalluxury-next-starter",
+  "version": "0.2.2",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+
+    "@sanity/client": "6.18.2",
+    "sanity": "3.55.0",
+    "@sanity/vision": "3.55.0",
+    "next-sanity": "7.1.2",
+    "@sanity/image-url": "1.0.2",
+    "groq": "3.55.0"
+  }
+}
